@@ -1,7 +1,10 @@
-/ Clone the git
-git@github.com:Khondaker97/django_rest_crud_api.git
+## Clone the git
 
-/ cd folder name
+[Django-rest]("git@github.com:Khondaker97/django_rest_crud_api.git")
+
+## Move to folder
+
+    cd folder name
 
 # create virtual environment
 
